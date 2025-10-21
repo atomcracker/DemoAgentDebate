@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'demoagentdebate-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0E862F05C78405AB488F1A1394CE1DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C641E953532E42F78B76B4F882698D67 }}
